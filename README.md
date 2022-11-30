@@ -62,5 +62,23 @@
 > * 24 Jam ==525 rb==    
 ---
 
+## Honda Brio M:a:nual:love_letter: 
+![img](https://aceapugtar.cloudimg.io/raw.githubusercontent.com/ariefbuddies/bening-out/master/uploads/brio-manual.jpg?w=200&radius=20&force_format=png&#center)
+### Lepas :key: 
+    
+> [color=#07ef58] 
+> * 12 Jam ==250 rb==
+> * 24 Jam ==300 rb==
+### Mobil :heavy_plus_sign: Driver
+    
+> [color=#ce108c]
+> * 10 Jam ==325 rb==
+> * 24 Jam ==425 rb==    
+### Mobil :heavy_plus_sign: Driver :heavy_plus_sign: BBM
+    
+> [color=#e3ff33]
+> * 10 Jam ==425 rb==
+> * 24 Jam ==525 rb==    
+---
 </body>
 </html>
