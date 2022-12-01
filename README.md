@@ -164,3 +164,8 @@
 > * 10 Jam ==425 rb==
 > * 24 Jam ==525 rb==    
 ---
+
+```toml
+# Change the default theme to be use when building the site with Hugo
+theme = "timer-hugo"
+```
